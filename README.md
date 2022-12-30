@@ -59,7 +59,7 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
 
 [Support Server](https://discord.com/invite/Gj8xWwg38U)
 
-[Bot Invite](https://discord.com/api/oauth2/authorize?client_id=971024098098569327&permissions=8&scope=bot%20applications.commands)
+[Bot Invite](https://discord.com/oauth2/authorize?client_id=971024098098569327&permissions=1498209971415&scope=bot%20applications.commands)
 
 [Website Dashboard](https://revinal.xyz/)
 
