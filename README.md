@@ -58,6 +58,7 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
 ## Screenshots
 
 ![Message Logging](https://i.imgur.com/bkJwkQY.png)
+![Captcha System](https://i.imgur.com/8Bo4b4Q.jpg)
 ![Custom Embed Command](https://i.imgur.com/KhxrgRO.png)
 
 ---
