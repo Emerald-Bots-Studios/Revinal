@@ -55,6 +55,12 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
 
 ---
 
+## Screenshots
+
+![Custom Embed Command](https://i.imgur.com/KhxrgRO.png)
+
+---
+
 ## Links
 
 [Support Server](https://discord.com/invite/Gj8xWwg38U)
