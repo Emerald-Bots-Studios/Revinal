@@ -7,21 +7,17 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
   - ``Channel Creates, Channel Deletes, Channel Updates, Channel Topic Update``
   - ``Emoji Creates, Emoji Deletes, Emoji Updates``
   - ``Message Deletes, Message Edits, Message Pinned``
-  - ``Role Deletes, Role Adds, Role Updates``
-  - ``Ban Adds, Ban Removes``
-  - ``Member Kicks``
+  - ``Role Deletes, Role Adds, Role Updates Role Creates``
+  - ``Ban Adds, Ban Removes, Member Kicks``
   - ``Timeout Adds, Timeout Removes``
-  - ``Voice Joins, Voice Moves, Voice Leaves``
-  - ``Nickname Updates``
+  - ``Voice Joins, Voice Moves, Voice Leaves, Nickname Updates``
   - ``Member Joins, Member Leaves, Member Entered``
   - ``Invite Creates, Invite Deletes``
-  - ``Thread Creates, Thread Deletes``
+  - ``Thread Creates, Thread Deletes, Thread Updates``
   - ``Server Boosts, Server Unboosts``
-  - ``Level Increase, Level Decrease``
   - ``URL Adds, URL Removes, URL Updates``
   - ``Sticker Creates, Sticker Deletes, Sticker Updates``
-  - ``Banner Adds``
-  - ``Guild Feature Updates, Guild Owner Update``
+  - ``Guild Feature Updates, Guild Updates, Guild System Updates``
   - ``Partner Adds, Partner Removes``
 
 ---
@@ -30,11 +26,12 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
   - ``Anti Bad Words``
   - ``Anti Links``
   - ``Anti Ghost Pings``
-  - ``Max Lines``
-  - ``Max Mentions``
+  - ``Anti IP Grabber``
   - ``Anti Images``
   - ``Anti Zalgo``
   - ``Anti Server Invites``
+  - ``Max Lines``
+  - ``Max Mentions``
   - ``Max Role Mentions``
 
 ---
