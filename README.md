@@ -6,7 +6,7 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
 - Logging
   - ``Channel Creates, Channel Deletes, Channel Updates, Channel Topic Update``
   - ``Emoji Creates, Emoji Deletes, Emoji Updates``
-  - ``Message Deletes, Message Edits, Message Pinned, Message Bulk Delete``
+  - ``Message Deletes, Message Edits, Message Pinned``
   - ``Role Deletes, Role Adds, Role Updates Role Creates``
   - ``Ban Adds, Ban Removes, Member Kicks``
   - ``Timeout Adds, Timeout Removes``
@@ -56,6 +56,9 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
 
 ![Message Logging](https://i.imgur.com/bkJwkQY.png)
 ![Captcha System](https://i.imgur.com/8Bo4b4Q.jpg)
+![AI Chat Bot](https://i.imgur.com/sPIbhuf.png)
+![Utility](https://i.imgur.com/j5F9P8r.png)
+![Giveaway System](https://i.imgur.com/ykpUBaU.png)
 ![Custom Embed Command](https://i.imgur.com/KhxrgRO.png)
 
 ---
