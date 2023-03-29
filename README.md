@@ -4,20 +4,23 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
 ## Features
 
 - Logging
-  - ``Channel Creates, Channel Deletes, Channel Updates, Channel Topic Update``
+  - ``Channel Creates, Channel Deletes, Channel Updates``
   - ``Emoji Creates, Emoji Deletes, Emoji Updates``
-  - ``Message Deletes, Message Edits, Message Pinned``
-  - ``Role Deletes, Role Adds, Role Updates Role Creates``
+  - ``Message Deletes, Message Edits, Message Pins, Message Bulk Deletes``
+  - ``Role Creates, Role Deletes, Role Updates, Role Adds, Role Removes``
   - ``Ban Adds, Ban Removes, Member Kicks``
   - ``Timeout Adds, Timeout Removes``
-  - ``Voice Joins, Voice Moves, Voice Leaves, Nickname Updates``
-  - ``Member Joins, Member Leaves, Member Entered``
+  - ``Voice Joins, Voice Moves, Voice Leaves``
+  - ``Sever Mutes, Server Unmutes, Server Deafens, Server Un-deafens``
+  - ``Reaction Adds, Reaction Removes, Reaction Remove Alls``
+  - ``Member Joins, Member Leaves, Member Entered, Nickname Updates``
   - ``Invite Creates, Invite Deletes``
   - ``Thread Creates, Thread Deletes, Thread Updates``
   - ``Server Boosts, Server Unboosts``
   - ``URL Adds, URL Removes, URL Updates``
   - ``Sticker Creates, Sticker Deletes, Sticker Updates``
   - ``Guild Feature Updates, Guild Updates, Guild System Updates``
+  - ``Guild Banner Adds``
   - ``Partner Adds, Partner Removes``
 
 ---
