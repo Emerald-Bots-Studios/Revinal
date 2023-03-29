@@ -17,10 +17,9 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
   - ``Invite Creates, Invite Deletes``
   - ``Thread Creates, Thread Deletes, Thread Updates``
   - ``Server Boosts, Server Unboosts``
-  - ``URL Adds, URL Removes, URL Updates``
+  - ``URL Adds, URL Removes, URL Updates, Guild Banner Adds``
   - ``Sticker Creates, Sticker Deletes, Sticker Updates``
   - ``Guild Feature Updates, Guild Updates, Guild System Updates``
-  - ``Guild Banner Adds``
   - ``Partner Adds, Partner Removes``
 
 ---
