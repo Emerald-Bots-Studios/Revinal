@@ -57,12 +57,13 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
 
 ## Screenshots
 
-![Message Logging](https://i.imgur.com/bkJwkQY.png)
-![Captcha System](https://i.imgur.com/8Bo4b4Q.jpg)
-![AI Chat Bot](https://i.imgur.com/sPIbhuf.png)
-![Utility](https://i.imgur.com/j5F9P8r.png)
-![Giveaway System](https://i.imgur.com/ykpUBaU.png)
-![Custom Embed Command](https://i.imgur.com/KhxrgRO.png)
+![Rank Cards](https://i.imgur.com/xQse91T.png)
+![Message Logging](https://i.imgur.com/ZANwHK6.png)
+![Captcha System](https://i.imgur.com/orh1gwt.jpg)
+![AI Chat Bot](https://i.imgur.com/2xS3Rg1.png)
+![Utility](https://i.imgur.com/GHVUQVz.png)
+![Giveaway System](https://i.imgur.com/pNo4LDP.png)
+![Custom Embed Command](https://i.imgur.com/CNt5kpX.png)
 
 ---
 
