@@ -50,6 +50,7 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
   - ``Giveaway System``
   - ``Games System``
   - ``AI Chat Bot``
+  - ``Profile System``
 
 ### And So Much More...
 
