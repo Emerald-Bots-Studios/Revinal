@@ -1,5 +1,5 @@
 # Revinal
-Multi Functional Bot Containing Advanced Logging And Many Utility like features. 
+Multi Functional Bot Containing Advanced Logging, Auto Moderation And Many Utility like features. 
 
 ## Features
 
@@ -58,13 +58,18 @@ Multi Functional Bot Containing Advanced Logging And Many Utility like features.
 
 ## Screenshots
 
+## XP System
 ![Rank Cards](https://i.imgur.com/xQse91T.png)
-![Message Logging](https://i.imgur.com/ZANwHK6.png)
-![Captcha System](https://i.imgur.com/orh1gwt.jpg)
-![AI Chat Bot](https://i.imgur.com/2xS3Rg1.png)
-![Utility](https://i.imgur.com/GHVUQVz.png)
-![Giveaway System](https://i.imgur.com/pNo4LDP.png)
-![Custom Embed Command](https://i.imgur.com/CNt5kpX.png)
+## Logging Systems
+![Message Logging](https://i.imgur.com/UFQME1l.png)
+## Auto Moderation
+![Auto Mod](https://i.imgur.com/caG9YfW.png)
+## Captcha Verification
+![Captcha](https://i.imgur.com/Be3MOEJ.png)
+## Welcomer Cards
+![Welcomer](https://i.imgur.com/D1cAqt8.png)
+## AI Chat Bot
+![Chat Bot](https://i.imgur.com/1QPcvMt.png)
 
 ---
 
