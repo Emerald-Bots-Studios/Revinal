@@ -20,7 +20,8 @@ Multi Functional Bot Containing Advanced Logging, Auto Moderation And Many Utili
   - ``Sticker Creates, Sticker Deletes, Sticker Updates``
   - ``Guild Feature Updates, Guild Updates, Guild System Updates``
   - ``Partner Adds, Partner Removes``
-  - ``Soundboard Uploaded, Soundboard Updates, Soundboard Deleted``
+  - ``Soundboard Uploads, Soundboard Updates, Soundboard Deletes``
+  - ``AutoMod Rule Creates, AutoMod Rule Deletes,``
 
 ---
 
